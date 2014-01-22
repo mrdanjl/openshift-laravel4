@@ -6,8 +6,7 @@
 	"require": {
 		"laravel/framework": "4.1.*",
                 "jenssegers/mongodb": "*",
-	        "jenssegers/mongodb-session": "*",
-
+	        "jenssegers/mongodb-session": "*"
 	},
 	"autoload": {
 		"classmap": [
